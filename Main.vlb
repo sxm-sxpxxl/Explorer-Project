@@ -1,0 +1,10 @@
+﻿[]
+Coordinates=126,62,82,33
+
+[pTreeView]
+Coordinates=250,10,65,33
+
+[pListView]
+Coordinates=10,10,97,177
+Visible=True
+

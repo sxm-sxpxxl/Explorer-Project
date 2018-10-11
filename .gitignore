@@ -1,0 +1,13 @@
+Win32/
+*.dcu
+*.~*~
+*.local
+*.identcache
+__history
+*.drc
+*.map
+*.exe
+*.dll
+*.res
+bin/*
+__astcache/
